@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "20118219059",
+    "project_id": "yourlife-97bdb",
+    "storage_bucket": "yourlife-97bdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20118219059:android:8951fb63f23caff51a7646",
+        "android_client_info": {
+          "package_name": "com.example.memory_notebook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "20118219059-f72gne8otd7bpshnmi7ko681q36ivvlt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2lzqeS2HeU33HJzU8SnoSho1lH7s-UBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "20118219059-f72gne8otd7bpshnmi7ko681q36ivvlt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
