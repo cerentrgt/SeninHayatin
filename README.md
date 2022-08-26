@@ -1,16 +1,3 @@
-# memory_notebook
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Senin Hayatın
+## Uygulama Amacı </br>
+#### Uygulamam birçok özelliğe sahiptir. Not defteri ve günlük birleşimi tarzındadır. Kullanıcıları hayal kurmaya teşvik eder. Anılarını unutmaması ve kayıt altına alması için alan oluşturulmuştur.Not almaları için alan vardır. Google veya Email yoluyla kayıt olabilmektedirler.Kullanıcıya göre veri çekmektedir. Profil resmi güncellemesi vardır. Şifrelerini unuttuklarında e-maillerine mail gitmektedir. Hava durumuna bakabilmektedirler. Motivasyon verici cümleler vardır.
