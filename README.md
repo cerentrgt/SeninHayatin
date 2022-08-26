@@ -5,41 +5,21 @@
 
 <img src="https://github.com/cerentrgt/SeninHayatin/blob/master/assets/uploads/SeninHayat%C4%B1n-home-sayfas%C4%B1.jpg" width="150" height="300">
 
-![seninhayatın home sayfası](https://github.com/cerentrgt/SeninHayatin/blob/master/assets/uploads/SeninHayat%C4%B1n-home-sayfas%C4%B1.jpg)
-
 <img src="https://github.com/cerentrgt/SeninHayatin/blob/master/assets/uploads/SeninHayatin-register-sayfas%C4%B1.jpg" width="150" height="300">
-
-![seninhayatın register sayfası ](https://github.com/cerentrgt/SeninHayatin/blob/master/assets/uploads/SeninHayatin-register-sayfas%C4%B1.jpg)
 
 <img src="https://github.com/cerentrgt/SeninHayatin/blob/master/assets/uploads/SeninHayatin-login-sayfas%C4%B1.jpg" width="150" height="300">
 
-![seninhayatın login sayfası](https://github.com/cerentrgt/SeninHayatin/blob/master/assets/uploads/SeninHayatin-login-sayfas%C4%B1.jpg)
-
 <img src="https://github.com/cerentrgt/SeninHayatin/blob/master/assets/uploads/SeninHayatin-%C5%9Fifremi-unuttum-sayfas%C4%B1.jpg" width="150" height="300">
-
-![seninhayatın şifremi unuttum sayfası](https://github.com/cerentrgt/SeninHayatin/blob/master/assets/uploads/SeninHayatin-%C5%9Fifremi-unuttum-sayfas%C4%B1.jpg)
 
 <img src="https://github.com/cerentrgt/SeninHayatin/blob/master/assets/uploads/SeninHayatin-anasayfa.jpg" width="150" height="300">
 
-![seninhayatın anasayfa](https://github.com/cerentrgt/SeninHayatin/blob/master/assets/uploads/SeninHayatin-anasayfa.jpg)
-
 <img src="https://github.com/cerentrgt/SeninHayatin/blob/master/assets/uploads/SeninHayatin-drawer-sayfas%C4%B1.jpg" width="150" height="300">
-
-![seninhayatın drawer ekranı](https://github.com/cerentrgt/SeninHayatin/blob/master/assets/uploads/SeninHayatin-drawer-sayfas%C4%B1.jpg)
 
 <img src="https://github.com/cerentrgt/SeninHayatin/blob/master/assets/uploads/SeninHayatin-hava-durumu-sayfas%C4%B1.jpg" width="150" height="300">
 
-![seninhayatın hava durumu](https://github.com/cerentrgt/SeninHayatin/blob/master/assets/uploads/SeninHayatin-hava-durumu-sayfas%C4%B1.jpg)
-
 <img src="https://github.com/cerentrgt/SeninHayatin/blob/master/assets/uploads/SeninHayatin-uyar%C4%B1-mesaj%C4%B1.jpg" width="150" height="300">
-
-![seninhayatın uyarı mesajı](https://github.com/cerentrgt/SeninHayatin/blob/master/assets/uploads/SeninHayatin-uyar%C4%B1-mesaj%C4%B1.jpg)
 
 <img src="https://github.com/cerentrgt/SeninHayatin/blob/master/assets/uploads/SeninHayatin-profil-sayfas%C4%B1.jpg" width="150" height="300">
 
-![seninhayatın uyarı mesajı](https://github.com/cerentrgt/SeninHayatin/blob/master/assets/uploads/SeninHayatin-profil-sayfas%C4%B1.jpg)
-
 <img src="https://github.com/cerentrgt/SeninHayatin/blob/master/assets/uploads/SeninHayatin-hayaller-ekran%C4%B1.jpg" width="150" height="300">
-
-![seninhayatın uyarı mesajı](https://github.com/cerentrgt/SeninHayatin/blob/master/assets/uploads/SeninHayatin-hayaller-ekran%C4%B1.jpg)
 
